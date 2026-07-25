@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "濁水溪河床揚塵下風檢驗 · Does Zhuoshui riverbed dust reach downwind?"
+message: "如果這份分析對你有幫助，歡迎依下列方式引用。"
+type: software
+abstract: >-
+  用環境部逐時測站資料，以同小時跨站的下風對比檢驗濁水溪河床揚塵是否吹到下風處。
+  主結果看似顯著，卻被事前寫好的三道防線（PM2.5 陰性對照、位移安慰劑、風速機制）推翻，
+  是一份誠實的否定。
+authors:
+  - name: "thc1006"
+repository-code: "https://github.com/thc1006/taiwan-riverbed-dust"
+url: "https://github.com/thc1006/taiwan-riverbed-dust"
+license: MIT
+date-released: "2026-07-25"
+keywords:
+  - taiwan
+  - air-quality
+  - dust
+  - confounding
+  - open-data
