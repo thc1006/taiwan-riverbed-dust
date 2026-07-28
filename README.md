@@ -78,7 +78,7 @@ python run.py
 
 ## 本系列
 
-同一套混淆稽核工法，套用在不同題目上，四題都是誠實的否定，四種不同的死法：
+同一套混淆稽核工法，套用在不同題目上，四個誠實的案例、四種不同的推論失敗：
 
 - [taiwan-solar-dimming](https://github.com/thc1006/taiwan-solar-dimming) — 光電 × 氣膠，死於季節同步
 - [taiwan-earthquake-fab](https://github.com/thc1006/taiwan-earthquake-fab) — 地震 × 晶圓廠，死於檢定力
