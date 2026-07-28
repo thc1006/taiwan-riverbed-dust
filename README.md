@@ -35,7 +35,7 @@
 其餘假來源：南移 25 km 為 +0.00（p = 0.98）、山區不顯著、海上無下風樣本。只有北移顯著，
 完全符合「東北季風把北方上游汙染帶下來」的解釋。
 
-## 真正的混淆：小時固定效果拿不掉沿流向的梯度
+## 真正的混淆：小時固定效果拿不掉沿風向的梯度
 
 這是本題最值得記的一課。
 
@@ -82,7 +82,7 @@ python run.py
 
 - [taiwan-solar-dimming](https://github.com/thc1006/taiwan-solar-dimming) — 光電 × 氣膠，死於季節同步
 - [taiwan-earthquake-fab](https://github.com/thc1006/taiwan-earthquake-fab) — 地震 × 晶圓廠，死於檢定力
-- **taiwan-riverbed-dust**（本專案）— 河床揚塵 × PM10，死於順流向空間梯度
+- **taiwan-riverbed-dust**（本專案）— 河床揚塵 × PM10，死於順風向空間梯度
 - [taiwan-vre-drought](https://github.com/thc1006/taiwan-vre-drought) — 電網備轉 × 再生能源，死於會計恆等式
 
 稽核清單見 [CONFOUND-AUDIT.md](CONFOUND-AUDIT.md)。
